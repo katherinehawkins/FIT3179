@@ -1,42 +1,41 @@
-﻿area,birth_rate,income,rent
-Banyule,0.8,2027,399
-Bass Coast,0.5,1163,300
-Bayside,0.8,2487,520
-Boroondara,0.8,2376,451
-Brimbank,0.9,1506,346
-Cardinia,0.9,1874,361
-Casey,1.1,1918,380
-Darebin,0.6,1829,381
-Frankston,0.8,1653,356
-Glen Eira,0.7,2133,436
-Greater Dandenong,0.8,1453,346
-Greater Geelong,0.7,1592,346
-Hepburn,0.5,1256,350
-Hobsons Bay,0.8,1972,380
-Hume,1.1,1703,369
-Kingston,0.7,1914,402
-Knox,0.8,1884,400
-Macedon Ranges,0.8,2059,390
-Manningham,0.8,1920,462
-Maribyrnong,0.6,2020,296
-Maroondah,0.8,1867,385
-Melbourne,0.2,1678,396
-Melton,1.1,1887,360
-Merri-bek,0.6,1943,400
-Mitchell,1.1,2715,560
-Monash,0.7,1901,436
-Moonee Valley,0.7,2011,386
-Moorabool,0.8,1785,330
-Murrindindi,0.4,877,270
-Nillumbik,1,2476,440
-Mornington Peninsula,0.7,1604,361
-Port Phillip,0.3,2069,420
-Queenscliffe,0.4,1509,370
-Stonnington,0.4,2210,421
-Surf Coast,0.8,2088,402
-Whitehorse,0.7,1841,411
-Whittlesea,1,1768,371
-Wyndham,1.1,2023,370
-Yarra,0.3,2270,451
-Yarra Ranges,0.8,1881,380
-Unincorporated Vic,0.4,1382,385
+﻿area,birth_rate,income,rent,deaths
+Banyule,1.55,2027,399,4.8
+Bass Coast,1.7,1163,300,5.2
+Bayside,1.54,2487,520,4.3
+Boroondara,1.15,2376,451,3.9
+Brimbank,1.6,1506,346,5.3
+Cardinia,1.9,1874,361,5
+Casey,1.87,1918,380,5.3
+Darebin,1.27,1829,381,5.3
+Frankston,1.72,1653,356,5.8
+Glen Eira,1.38,2133,436,4.5
+Greater Dandenong,1.63,1453,346,5.4
+Greater Geelong,1.65,1592,346,5.6
+Hepburn,1.77,1256,350,5.9
+Hobsons Bay,1.7,1972,380,5.2
+Hume,1.85,1703,369,5.3
+Kingston,1.55,1914,402,4.6
+Knox,1.46,1884,400,5
+Macedon Ranges,1.84,2059,390,5
+Manningham,1.27,1920,462,4
+Maribyrnong,1.36,2020,296,6
+Maroondah,1.59,1867,385,5.2
+Melbourne,0.66,1678,396,5.5
+Melton,1.89,1887,360,5.3
+Merri-bek,0.6,1943,400,
+Mitchell,1.93,2715,560,5.4
+Monash,1.14,1901,436,4.5
+Moonee Valley,1.35,2011,386,4.6
+Moorabool,1.78,1785,330,5.5
+Murrindindi,1.76,877,270,5.4
+Nillumbik,1.68,2476,440,4.5
+Mornington Peninsula,1.75,1604,361,4.7
+Port Phillip,1.2,2069,420,4.7
+Queenscliffe,1.76,1509,370,10.6
+Stonnington,0.97,2210,421,4.4
+Surf Coast,1.79,2088,402,4.4
+Whitehorse,1.19,1841,411,4.3
+Whittlesea,1.73,1768,371,5.3
+Wyndham,1.88,2023,370,5.6
+Yarra,0.98,2270,451,5
+Yarra Ranges,1.79,1881,380,4.9
